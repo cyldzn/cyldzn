@@ -14,73 +14,87 @@
   </a>
 </p>
 
+---
+
 ### 🧑‍💻 About Me
 
-I'm a self‑motivated, well‑organised individual with a logical, practical approach to problem‑solving. I enjoy collaborating with others and working under pressure to deliver high‑quality results. I'm currently focused on honing my **Python** skills and expanding my knowledge of web development.
+<!-- About Me Start -->
+I am a **Junior Python Developer** based in London, UK, with a strong foundation in software engineering and a passion for building efficient, scalable applications. I transition from background in hospitality management, bringing leadership, adaptability, and a proactive problem-solving mindset to technical challenges. 
 
-### 🛠️ Skills
+I'm currently focused on:
+- 🚀 Advanced **Python (Django)** development.
+- 🌐 Expanding my knowledge of **Full-Stack Development**.
+- 🛠️ Building automation tools and data analysis projects.
+<!-- About Me End -->
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+### 🛠️ Skills & Technologies
+
+<!-- Skills Start -->
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend & DB** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Frontend** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Tools & Misc** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+<!-- Skills End -->
 
 <details>
-<summary>More Skills & Attributes</summary>
+<summary><b>🌟 Transferable Soft Skills</b></summary>
 <ul>
-  <li>Problem solving & critical thinking</li>
-  <li>Teamwork & leadership</li>
-  <li>Time management & reliability</li>
-  <li>Customer relations & communication</li>
+  <li>Complex Problem Solving & Critical Thinking</li>
+  <li>Team Leadership & Collaboration</li>
+  <li>Agile Project Management</li>
+  <li>Effective Technical Communication</li>
 </ul>
 </details>
 
-### 📚 Education & Training
+---
 
-- **Digital Skills Bootcamp – Software Development, Just IT Training Ltd (March 2022–present)**  
-  Intensive 12‑week course covering the fundamentals of web and software development, including HTML, CSS, JavaScript, MySQL, MongoDB and Python【416896806016598†L17-L24】.
+### 🚀 Featured Projects
 
-- **BSc Software Engineering, Regent College London – University of Bolton (April 2022–present)**  
-  Modules include Logical Analysis & Problem Solving, and Computer Systems【416896806016598†L27-L33】.
-
-- **Python Programming Courses (Udemy, Feb 2022–present)**  
-  Continuous self‑study of Python programming through online courses【416896806016598†L35-L37】.
-
-### 🔨 Projects
-
+<!-- Projects Start -->
 <p align="center">
   <a href="https://github.com/cyldzn/Deadbook">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyldzn&repo=Deadbook&theme=radical&hide_border=true" alt="Deadbook project card"/>
   </a>
-  <a href="https://github.com/cyldzn/cyldzn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyldzn&repo=cyldzn&theme=radical&hide_border=true" alt="Profile repository card"/>
-  </a>
 </p>
 
-- **Deadbook** – A social‑network clone built with Python (Django). Features include user authentication, posting, commenting and more. This project is in progress; contributions and suggestions are welcome!
-- **Profile Repository** – The README you’re reading is shown on my GitHub profile.
-
-*More projects coming soon. I’m currently working on command‑line tools and data‑analysis projects to deepen my Python skills.*
-
-### 💼 Experience
-
-Although my professional experience has been outside software development, roles such as **Delivery Driver** and **Restaurant Manager** have strengthened my reliability, leadership and communication skills【416896806016598†L45-L58】. I leverage these transferable skills in my approach to software projects.
-
-### 🎯 Interests & Hobbies
-
-Cooking, baking, films, gym, music, photography, politics, swimming, walking, technology, cycling【416896806016598†L86-L88】.
+#### [Deadbook](https://github.com/cyldzn/Deadbook)
+- **Tech Stack:** Python, Django, MySQL
+- **Description:** A robust social network clone featuring user authentication, post creation, commenting systems, and real-time interaction capabilities.
+- **Current Focus:** Implementing advanced search and notification features.
+<!-- Projects End -->
 
 ---
+
+### 🎓 Education & Training
+
+<!-- Education Start -->
+| Institution | Course | Period |
+| :--- | :--- | :--- |
+
+| **Just IT Training Ltd ** | Digital Skills Bootcamp – Software Development | Mar 2022 – May 2022 |
+| **Udemy / Self-Study** | Python Programming & Web Development | Feb 2026 – Present |
+| **Coursera / Self-Study** | Prompting Engineering  | Jan 2026 – Feb 2026 |
+<!-- Education End -->
+
+---
+
+### 📈 GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/cyldzn/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=cyldzn&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Can's GitHub stats" />
   </a>
-  <a href="https://github.com/cyldzn/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyldzn&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Most used languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyldzn&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Most used languages" />
+</p>
+
+---
+
+<p align="center">
+  <b>Let's connect and build something great!</b><br>
+  <a href="mailto:cn.yldz@hotmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/can-yildiz">LinkedIn</a>
 </p>
