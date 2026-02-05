@@ -19,12 +19,12 @@
 ### 🧑‍💻 About Me
 
 <!-- About Me Start -->
-I am a **Junior Python Developer** and **Prompt Engineer** based in London, UK. I specialize in building efficient, scalable applications and leveraging AI to optimize development workflows. 
+I am a **Junior Python Developer** and **Prompt Engineer** based in London, UK. I specialise in building efficient, scalable applications and leveraging AI to optimise development workflows. 
 
 With a background in hospitality management, I bring a unique blend of **leadership, adaptable problem-solving, and efficient delivery** to the tech space. I am passionate about clean code, automation, and the intersection of Python and AI.
 
 I'm currently focused on:
-- 🚀 Optimizing **Django** applications for performance.
+- 🚀 Optimising **Django** applications for performance.
 - 🤖 Researching **Prompt Engineering** and AI integration.
 - 🛠️ Building automation tools to streamline complex tasks.
 <!-- About Me End -->
@@ -76,7 +76,6 @@ I'm currently focused on:
 <!-- Education Start -->
 | Institution / Platform | Certification / Course | Period |
 | :--- | :--- | :--- |
-| **Regent College London** | BSc Software Engineering | Apr 2022 – Present |
 | **Just IT Training Ltd** | Digital Skills Bootcamp – Software Development | Mar 2022 – May 2022 |
 | **Coursera / Self-Study** | Prompt Engineering for Professionals | Jan 2026 – Feb 2026 |
 | **Udemy / Self-Study** | Advanced Python Programming & Web Development | Feb 2026 – Present |
