@@ -96,5 +96,5 @@ I'm currently focused on:
 <p align="center">
   <b>Let's connect and build something great!</b><br>
   <a href="mailto:cn.yldz@hotmail.com">Email</a> • 
-  <a href="https://www.linkedin.com/in/can-yildiz">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/can-yildiz-986172156/">LinkedIn</a>
 </p>
